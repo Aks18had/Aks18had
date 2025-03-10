@@ -8,7 +8,7 @@ I'm passionate about **data-driven decision-making, machine learning, and analyt
 
 ## 📊 Data Analysis at a Glance
 
-![Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['ML','EDA','SQL','Visualization'],datasets:[{data:[30%,25%,25%,20%]}]}})
+![Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['ML','EDA','SQL','Visualization'],datasets:[{data:[30,25,25,20]}]}})
 
 ## 🔧 Skills & Tools
 
