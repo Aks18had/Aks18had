@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Akshad Goyanka
+# Hi there! 👋 I'm AKSHAD GOYANKA
 
 
 
