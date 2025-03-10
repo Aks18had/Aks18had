@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Akshad Goyanka
 
-![Data Analysis](https://source.unsplash.com/1600x400/?data,analytics,technology)
 
-🚀 **Data Analyst | Machine Learning Enthusiast | AI & ML Student**  
+
+🚀 **Data Analyst & Business Analyst Aspirant | Data Science & Machine Learning Enthusiast | AI & ML Student**  
 
 I'm passionate about **data-driven decision-making, machine learning, and analytics.** I enjoy working with Python, SQL, and visualization tools to extract meaningful insights from data.
 
 ## 📊 Data Analysis at a Glance
 
-![Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['ML','EDA','SQL','Visualization'],datasets:[{data:[30,25,25,20]}]}})
+![Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['ML','EDA','SQL','Visualization'],datasets:[{data:[30%,25%,25%,20%]}]}})
 
 ## 🔧 Skills & Tools
 
